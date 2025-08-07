@@ -1,8 +1,4 @@
-<div align="center">
-  <br />
-  <img src="https://your-screenshot-url.com/banner.png" alt="3D Portfolio Banner" />
 
-  <br />
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
@@ -18,17 +14,6 @@
 </div>
 
 ---
-
-## 📋 Table of Contents
-
-1. [💡 Introduction](#introduction)
-2. [⚙️ Tech Stack](#tech-stack)
-3. [🚀 Features](#features)
-4. [⚡ Getting Started](#getting-started)
-5. [🖼️ Screenshots](#screenshots)
-6. [🔗 Live Demo](#live-demo)
-7. [📬 Contact](#contact)
-
 ---
 
 ## 💡 Introduction
